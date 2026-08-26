@@ -1,9 +1,0 @@
-{
-    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/apks/expandacentral.apk",
-    "changelog":  "Versao EXPandaCentral v1.3.0.44(646): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
-    "versionCode":  646,
-    "versionName":  "1.3.0.44",
-    "sha256":  "72ba39c1583353cf9e44700f57902d69832ae61ff4c20fd06ba408b2966df034",
-    "sizeBytes":  18280288,
-    "updatedAt":  "2026-08-26T01:41:11Z"
-}
