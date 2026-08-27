@@ -1,9 +1,9 @@
 {
-    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/expandacentral-experimental.apk",
-    "changelog":  "Versao EXPandaCentral v1.3.0.98(700): Canal Experimental.",
-    "versionCode":  700,
-    "versionName":  "1.3.0.98",
-    "sha256":  "282850469e368f43264defdfa7bdba98151b1bd7773637e533f6c614f417713d",
-    "sizeBytes":  18070257,
-    "updatedAt":  "2026-08-27T12:01:03Z"
+    "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/expandacentral-experimental.apk",
+    "changelog": "v1.3.1.00(715): Estrela VIP Amarela, Tilt Down v2 e UTF-8 Hardlock.",
+    "versionCode": 715,
+    "versionName": "1.3.1.00",
+    "sha256": "282850469e368f43264defdfa7bdba98151b1bd7773637e533f6c614f417713d",
+    "sizeBytes": 18070257,
+    "updatedAt": "2026-08-27T14:00:00Z"
 }
