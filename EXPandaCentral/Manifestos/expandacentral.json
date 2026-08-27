@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/expandacentral.apk",
-    "changelog":  "Versao EXPandaCentral v1.3.0.96(698): Release Oficial.",
-    "versionCode":  698,
-    "versionName":  "1.3.0.96",
-    "sha256":  "f7ff9bc42b5741c7499298c0d936d12644aa624f9a0cff7e67742ce83cc349ee",
-    "sizeBytes":  17894513,
-    "updatedAt":  "2026-08-27T11:11:24Z"
+    "changelog":  "Versao EXPandaCentral v1.3.0.97(699): Release Oficial.",
+    "versionCode":  699,
+    "versionName":  "1.3.0.97",
+    "sha256":  "39af056772a001d9d4f7e508ca1e1006f35ee3c672d95ef42058023086b1a147",
+    "sizeBytes":  17975137,
+    "updatedAt":  "2026-08-27T11:14:56Z"
 }
