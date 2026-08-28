@@ -1,9 +1,15 @@
 {
-  "version": 2,
+  "version": 3,
   "entries": [
     {
-      "label": "Felipe Martini (Master)",
-      "hash": "2a722acd40be1ba0674f2f9c3c34aaeb606628180c4b13b0d88c0160219d9af5"
+      "label": "Felipe Martini",
+      "hash": "2a722acd40be1ba0674f2f9c3c34aaeb606628180c4b13b0d88c0160219d9af5",
+      "type": "FELIPE"
+    },
+    {
+      "label": "Colaborador Master",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "type": "MASTER"
     }
   ]
 }
