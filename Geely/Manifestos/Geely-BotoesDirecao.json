@@ -1,7 +1,7 @@
 {
     "versionCode":  1,
     "versionName":  "0.1.0-dev",
-    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/GeelyAutoKeyServer-patched-signed.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/GeelyAutoKeyServer.apk",
     "sha256":  "9a412e029470b22f284f73d97f111eab92602788b3184b200f2687c6087a63fc",
     "changelog":  "Build inicial unificado com paridade total Sapo."
 }

@@ -1,8 +1,8 @@
 {
-    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/GeelyAutoSystemUIPlugin-digital.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/GeelyAutoSystemUIPlugin.apk",
     "versionCode":  584,
     "versionName":  "2.17.2",
     "sha256":  "fabc06a38cb588bae64f4cfc71e4848d21809b01bca43f6f85363839cc353d21",
     "sizeBytes":  18284258,
-    "updatedAt":  "2026-08-29T22:43:11Z"
+    "updatedAt":  "2026-08-29T23:10:21Z"
 }
