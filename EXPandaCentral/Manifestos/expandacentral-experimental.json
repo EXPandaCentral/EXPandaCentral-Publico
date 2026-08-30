@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/APKs/EXPandaCentral-experimental-signed.apk",
-    "changelog":  "VersÃ£o EXPandaCentral v1.3.1.00(872): Canal Experimental.",
-    "versionCode":  872,
+    "changelog":  "VersÃ£o EXPandaCentral v1.3.1.00(873): Canal Experimental.",
+    "versionCode":  873,
     "versionName":  "1.3.1.00",
-    "sha256":  "e5cf2d5949fb7021505ec6aa0b13865e9e10ff710266832f7cd81160c127d12b",
-    "sizeBytes":  18375850,
-    "updatedAt":  "2026-08-29T22:36:07Z"
+    "sha256":  "8175b194caf248edf1857c6fa56d888e9164f35798c91661a72ee731edb4538a",
+    "sizeBytes":  18374846,
+    "updatedAt":  "2026-08-29T22:49:18Z"
 }
