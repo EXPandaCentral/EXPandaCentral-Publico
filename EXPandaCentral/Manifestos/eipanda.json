@@ -1,9 +1,9 @@
 {
-    "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/EiPanda-platform-signed.apk",
-    "changelog": "EiPanda v1.18.0(21) autÃƒÆ’Ã‚Â´nomo assinado com chave de plataforma Geely: Assistente de voz offline Vosk, controle veicular CarPropertyManager/ECARX, floater ajustÃƒÆ’Ã‚Â¡vel e botÃƒÆ’Ã‚Â£o do volante.",
-    "versionCode": 21,
-    "versionName": "1.18.0",
-    "sha256": "c520e730ca0121c1696d06df059265e66dbb18fcffcad656c1dde64284b7300f",
-    "sizeBytes": 21724339,
-    "updatedAt": "2026-08-26T03:17:45Z"
+    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/EiPanda.apk",
+    "changelog":  "EiPanda v1.18.0(21) autÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â´nomo assinado com chave de plataforma Geely: Assistente de voz offline Vosk, controle veicular CarPropertyManager/ECARX, floater ajustÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡vel e botÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o do volante.",
+    "versionCode":  21,
+    "versionName":  "1.18.0",
+    "sha256":  "c520e730ca0121c1696d06df059265e66dbb18fcffcad656c1dde64284b7300f",
+    "sizeBytes":  21724339,
+    "updatedAt":  "2026-08-29T22:43:11Z"
 }
