@@ -1,9 +1,9 @@
 {
-    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/APKs/EXPandaCentral-experimental.apk",
-    "changelog":  "Versão EXPandaCentral v1.3.1.00(883): Canal Experimental com painel de diagnóstico EXPandaLogger na aba Sistema, SoftAP direto via reflection, HVAC 17-32C, R8 Full Mode, Jetpack DataStore e EXPandaCameras.",
-    "versionCode":  883,
-    "versionName":  "1.3.1.00",
-    "sha256":  "3a3c97b2a8b59e573bbfdb292345ff29a3b2c0463850e4b9d9f1a5c12a9eed42",
-    "sizeBytes":  5624128,
-    "updatedAt":  "2026-08-31T12:43:00Z"
+    "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/APKs/EXPandaCentral-experimental-signed.apk",
+    "changelog": "Versão EXPandaCentral v1.3.1.00(883): Canal Experimental com painel de diagnóstico EXPandaLogger na aba Sistema, SoftAP direto via reflection, HVAC 17-32C, R8 Full Mode, Jetpack DataStore e EXPandaCameras.",
+    "versionCode": 883,
+    "versionName": "1.3.1.00",
+    "sha256": "3a3c97b2a8b59e573bbfdb292345ff29a3b2c0463850e4b9d9f1a5c12a9eed42",
+    "sizeBytes": 5624128,
+    "updatedAt": "2026-08-31T12:43:00Z"
 }
