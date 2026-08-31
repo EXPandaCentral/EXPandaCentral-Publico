@@ -3,8 +3,8 @@
   "packageName": "com.expanda.logger",
   "versionName": "1.9.0",
   "versionCode": 10,
-  "sha256": "7595089e204ba4432f7fc6eb3f30a2d63e4cbeb1533f8dec5cb35c311b98395e",
-  "size": 6452452,
+  "sha256": "e2135ce1b6495f1f00834599151d341906fa3456a64ddb40065f3cd317185e4e",
+  "size": 6452488,
   "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/EXPandaLogger.apk",
   "category": "Diagnóstico & Sistema",
   "description": "Ferramenta avançada para diagnóstico de conexão, rotas de rede, CarPlay/MFi e logs do sistema."
