@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/APKs/EXPandaCentral-experimental-signed.apk",
-    "changelog":  "VersÃ£o EXPandaCentral v1.3.1.00(883): Canal Experimental com R8 Full Mode, Jetpack DataStore, BT PAN e Anti-Tamper.",
+    "changelog":  "VersÃ£o EXPandaCentral v1.3.1.00(883): Canal Experimental com R8 Full Mode, Jetpack DataStore, MemoryGuard, BT PAN e Anti-Tamper.",
     "versionCode":  883,
     "versionName":  "1.3.1.00",
-    "sha256":  "a786130e1067896259f06962cab720174b9c30da516a81c3a9a72a307088b07b",
-    "sizeBytes":  5618248,
-    "updatedAt":  "2026-08-31T10:29:43Z"
+    "sha256":  "7d0aee35eba5f0cc3e1eda8c665603495bd497ec50d12e4fbe4ff16f31f2697e",
+    "sizeBytes":  5620288,
+    "updatedAt":  "2026-08-31T10:51:55Z"
 }
