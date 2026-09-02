@@ -1,9 +1,9 @@
 {
-    "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/expandacentral-experimental.apk",
-    "changelog": "Versão EXPandaCentral v1.3.1.00(898): Canal Experimental com correção de pareamento Apple CarPlay, unificação visual EXPandaDialog e paridade Sapo v2.19.58.",
-    "versionCode": 898,
-    "versionName": "1.3.1.00",
-    "sha256": "d089892aef1d4d5a59c365858889268f76bac2ee9ea839d95b4b4d43bb1c57aa",
-    "sizeBytes": 18481414,
-    "updatedAt": "2026-09-02T19:00:00Z"
+    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/expandacentral-experimental.apk",
+    "changelog":  "VersÃ£o EXPandaCentral v1.3.1.00(898): Canal Experimental com R8 Full Mode, Jetpack DataStore, MemoryGuard, BT PAN e Anti-Tamper.",
+    "versionCode":  898,
+    "versionName":  "1.3.1.00",
+    "sha256":  "8be5ca41933bca756ffe6bf91c3aaadb1306de92391a3f175984844eb32d8981",
+    "sizeBytes":  5651484,
+    "updatedAt":  "2026-09-02T19:35:33Z"
 }
