@@ -1,9 +1,9 @@
 {
-    "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/APKs/EXPandaCentral-stable-signed.apk",
-    "changelog": "Versão EXPandaCentral v1.3.1.00(883): Canal Estável com painel de diagnóstico EXPandaLogger na aba Sistema, SoftAP direto via reflection, HVAC 17-32C, R8 Full Mode, Jetpack DataStore e EXPandaCameras.",
-    "versionCode": 883,
-    "versionName": "1.3.1.00",
-    "sha256": "d7fca0688c94d2abd49efd11baf07ecaf493625b3b46bb4f4718267c16407a87",
-    "sizeBytes": 5624128,
-    "updatedAt": "2026-08-31T12:43:00Z"
+    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/APKs/EXPandaCentral-stable.apk",
+    "changelog":  "VersÃƒÂ£o EXPandaCentral v1.3.1.01(901): Release Oficial com R8 Full Mode, Jetpack DataStore, MemoryGuard e Anti-Tamper.",
+    "versionCode":  901,
+    "versionName":  "1.3.1.01",
+    "sha256":  "a8b7904c14e09a5ededc3406251957b847929c54736296c9fb2d0dd77bf114cb",
+    "sizeBytes":  5660828,
+    "updatedAt":  "2026-09-02T22:36:55Z"
 }
