@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/Aplicativos/EXPandaCelular.apk",
-    "changelog":  "EXPandaCelular v1.0.1(101): companheiro do EXPandaCentral, com telemetria, viagens, recargas, custos e loja de aplicativos.",
-    "versionCode":  101,
-    "versionName":  "1.0.1",
-    "sha256":  "1ae07d25e264b266d7a2e83e4f19fcdab1c9ff81962d447b42328160c1fd6644",
+    "changelog":  "EXPandaCelular v1.0.2(102): companheiro do EXPandaCentral, com telemetria, viagens, recargas, custos e loja de aplicativos.",
+    "versionCode":  102,
+    "versionName":  "1.0.2",
+    "sha256":  "34f34e36bd5e16ba6139f59051f7598e395fdb35d00856c863b3444c800b77fc",
     "sizeBytes":  52360690,
-    "updatedAt":  "2026-09-04T03:31:00Z"
+    "updatedAt":  "2026-09-04T04:16:00Z"
 }
