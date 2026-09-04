@@ -1,10 +1,10 @@
 {
-    "versionName": "1.5.0-expanda2",
+    "versionName": "1.5.0-expanda3",
     "versionCode": 20260227,
     "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/ca_fix_1114.apk",
     "downloadUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/ca_fix_1114.apk",
-    "md5": "bd962204629ced90d8cde83865df53fc",
-    "sizeBytes": 19686471,
-    "updatedAt": "2026-09-04T04:55:43Z",
-    "changelog": "Corrige os dois congelamentos de thread principal do ConnAdaptor: a notificacao de conexao (onServiceConnected) e a de combustivel (callback do VHAL) deixam de fazer transacao Binder sincrona no main."
+    "md5": "2d4c966b859c0560a95e09d66cfae154",
+    "sizeBytes": 19694663,
+    "updatedAt": "2026-09-04T12:54:20Z",
+    "changelog": "Cobre TODAS as 13 notificacoes de sensor, e nao mais so a de combustivel. Depois do remendo anterior o veiculo produziu um ANR novo em notifyDayNight, com pilha identica: era o mesmo defeito noutro metodo da mesma classe. AutoSensorProxy tem 13 metodos que fazem transacao Binder sincrona, e qualquer um pode ser chamado de um callback de propriedade do VHAL - todos passam agora por um executor de thread unica, que tira o bloqueio da thread principal e preserva a ordem dos dados. A notificacao de conexao (onServiceConnected) segue corrigida. registerSensorListener continua sincrono de proposito, por ser chamado uma vez na inicializacao."
 }
