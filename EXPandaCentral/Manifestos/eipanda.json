@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/EiPanda.apk",
-    "changelog":  "EiPanda v1.19.0(22): assistente de voz offline Vosk com identidade EXPanda, controle veicular CarPropertyManager/ECARX, floater ajustavel e botao do volante.",
-    "versionCode":  22,
-    "versionName":  "1.19.0",
-    "sha256":  "0ec3dd79e37e19c8a07cf011f90f7c61fafc4a94c8ba9a5fb976e8dcbffd5990",
-    "sizeBytes":  19714425,
-    "updatedAt":  "2026-09-03T23:48:54Z"
+    "changelog":  "EiPanda v1.20.0(23): assistente de voz offline Vosk com identidade EXPanda, controle veicular CarPropertyManager/ECARX, floater ajustavel e botao do volante.",
+    "versionCode":  23,
+    "versionName":  "1.20.0",
+    "sha256":  "51a081c8ee1dd1dae5f71fd4a0eaece2b74cd09fc9db3051a4641520b382aa80",
+    "sizeBytes":  12320372,
+    "updatedAt":  "2026-09-04T03:27:22Z"
 }

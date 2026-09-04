@@ -1,7 +1,9 @@
-﻿{
-    " versionCode\: 56,
- \versionName\: \0.7.8\,
- \apkUrl\: \https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/EXPandaCameras.apk\,
- \sha256\: \dfe0c202550c3d6329f95e7f624b886d8df24329daf67496f69ae665e13a8e62\,
- \sizeBytes\: 10690977
+{
+    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/EXPandaCameras.apk",
+    "changelog":  "EXPandaCameras v0.7.8(56): CÃ¢meras e gravador DVR nativo para Geely/ECARX com assinatura de plataforma e validaÃ§Ã£o anti-clonagem.",
+    "versionCode":  56,
+    "versionName":  "0.7.8",
+    "sha256":  "dd851a89aa4815ae696c435d4a0402ad3535cb23e5ebe4cc980445ec878fed8c",
+    "sizeBytes":  10853447,
+    "updatedAt":  "2026-09-04T01:20:14Z"
 }
