@@ -1,4 +1,10 @@
 {
-    "md5":  "4b0e1de041032ee63ef0c223926d7889",
-    "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/ca_fix_1114.apk"
+    "versionName": "1.5.0-expanda2",
+    "versionCode": 20260227,
+    "apkUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/ca_fix_1114.apk",
+    "downloadUrl": "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/ca_fix_1114.apk",
+    "md5": "bd962204629ced90d8cde83865df53fc",
+    "sizeBytes": 19686471,
+    "updatedAt": "2026-09-04T04:55:43Z",
+    "changelog": "Corrige os dois congelamentos de thread principal do ConnAdaptor: a notificacao de conexao (onServiceConnected) e a de combustivel (callback do VHAL) deixam de fazer transacao Binder sincrona no main."
 }
