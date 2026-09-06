@@ -1,7 +1,8 @@
 {
-    "versionCode":  1,
-    "versionName":  "0.1.0-dev",
+    "versionCode":  4,
+    "versionName":  "1.3.0-retarget-expanda",
     "apkUrl":  "https://raw.githubusercontent.com/EXPandaCentral/EXPandaCentral-Publico/main/EXPandaCentral/Aplicativos/GeelyAutoKeyServer.apk",
-    "sha256":  "9a412e029470b22f284f73d97f111eab92602788b3184b200f2687c6087a63fc",
-    "changelog":  "Build inicial unificado com paridade total Sapo."
+    "sha256":  "903cb9075e149c629ab622ab9a1bac3e7f5daf71bb4c50b87dcfef8070a5229b",
+    "targetPackage":  "com.flyme.auto.keyserver",
+    "changelog":  "Patch dos botoes do volante apontando para com.expanda.central. O publicado anterior falava com com.ex.auto, a central de origem, e nao com a nossa."
 }
